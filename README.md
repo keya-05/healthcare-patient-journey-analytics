@@ -167,9 +167,9 @@ python tests/data_quality_tests.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- **Keya** - Initial work - [keya-05](https://github.com/keya-05)
+- **Keya Chaudhary** - Initial work - [keya-05](https://github.com/keya-05)
 
 ## 🙏 Acknowledgments
 
